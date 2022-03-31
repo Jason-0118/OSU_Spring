@@ -1,0 +1,54 @@
+NUMT = 1
+NUMTRIES = 10
+Peak Performance =   155.63 MegaMults/Sec
+Average Performance =   131.60 MFLOPS
+NUMTRIES = 100
+Peak Performance =   159.01 MegaMults/Sec
+Average Performance =   132.66 MFLOPS
+NUMTRIES = 1000
+Peak Performance =   184.51 MegaMults/Sec
+Average Performance =   158.69 MFLOPS
+
+NUMT = 2
+NUMTRIES = 10
+Peak Performance =   259.50 MegaMults/Sec
+Average Performance =   221.26 MFLOPS
+NUMTRIES = 100
+Peak Performance =   278.85 MegaMults/Sec
+Average Performance =   232.42 MFLOPS
+NUMTRIES = 1000
+Peak Performance =   290.33 MegaMults/Sec
+Average Performance =   242.61 MFLOPS
+
+NUMT = 4
+NUMTRIES = 10
+Peak Performance =   465.56 MegaMults/Sec
+Average Performance =   411.47 MFLOPS
+NUMTRIES = 100
+Peak Performance =   503.76 MegaMults/Sec
+Average Performance =   461.45 MFLOPS
+NUMTRIES = 1000
+Peak Performance =   517.88 MegaMults/Sec
+Average Performance =   444.00 MFLOPS
+
+NUMT = 6
+NUMTRIES = 10
+Peak Performance =   705.94 MegaMults/Sec
+Average Performance =   460.88 MFLOPS
+NUMTRIES = 100
+Peak Performance =   696.62 MegaMults/Sec
+Average Performance =   645.44 MFLOPS
+NUMTRIES = 1000
+Peak Performance =   713.32 MegaMults/Sec
+Average Performance =   652.21 MFLOPS
+
+NUMT = 8
+NUMTRIES = 10
+Peak Performance =     3.07 MegaMults/Sec
+Average Performance =     2.96 MFLOPS
+NUMTRIES = 100
+Peak Performance =   767.92 MegaMults/Sec
+Average Performance =   628.00 MFLOPS
+NUMTRIES = 1000
+Peak Performance =  1156.44 MegaMults/Sec
+Average Performance =   630.63 MFLOPS
